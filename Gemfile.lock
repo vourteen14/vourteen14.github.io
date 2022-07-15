@@ -278,7 +278,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  faraday-retry
   github-pages
 
 BUNDLED WITH
